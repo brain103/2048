@@ -541,8 +541,8 @@ hr {
 
     div {
       padding: 20px;
-      background-color: black;
-      margin: 10px;
+      background: black;
+      margin: 100px;
     }
 
   .game-container {
